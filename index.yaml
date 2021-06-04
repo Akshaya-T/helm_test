@@ -1,0 +1,14 @@
+apiVersion: v1
+entries:
+  nginx:
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2021-06-04T07:21:07.021112+05:30"
+    description: A Helm chart for Kubernetes
+    digest: e9f3cb8848f423d76f2c0c1aee059f8fb1a8f6fd7675c149bcdc606b2475cb6e
+    name: nginx
+    type: application
+    urls:
+    - https://github.com/Akshaya-T/helm_test/nginx-0.1.0.tgz
+    version: 0.1.0
+generated: "2021-06-04T07:21:07.019878+05:30"
